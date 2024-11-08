@@ -22,14 +22,21 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
  <details>
   <summary><h4> <img align="center" src="https://github.com/Smouzen/Tlotlang/blob/icons/academics.gif"  width="29"/> Academics</h2></summary>
 
-  <span><img src="https://img.shields.io/badge/BTECH-DTU_ECE'24-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-9.45/10.0-EFEEE9?style=for-the-badge"></span>
-  
+- **Sol Plaatje Universisty** Diploma in ICT | Jan 2018 - May 2020
+  - Programming Languages: Java, Python, Android Studio
+  - Databases: MySQL
+  - Key focus area: Agile Methodologies | Object Oriented Programming |Information Systems | Web-Development.
+- **Sol Plaatje Universisty** Advanced Diploma in ICT | Jan 2018 - May 2020
+  - Programming Languages: Java, Python
+  - Databases: MongoDB, Redis 
+  - Project Management 
+  - Key focus area: Agile Methodologies | Object Oriented Programming | Data Structures | System Design and Development
+</details>
 </details>
  <details>
   <summary><h4> <img align="center" src="https://github.com/Smouzen/Tlotlang/blob/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
-- **Free Lancer** at Magpie XYZ (Remote) | Jan 2024 - May 2024
+- **Free Lancer** Self- Employeed (Remote) | Oct 2022 -  Present
   • Developed and deployed web applications based on client specifications.
   • Utilized AWS EC2 for deployment and Docker for containerization the web application.
   • Utilized GitHub actions for CI/CD workflows, enhancing development 
