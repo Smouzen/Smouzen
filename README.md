@@ -94,8 +94,7 @@ efficiency.
 I am building a web application using MERN, for the students to find accommodation easily in the neighborhood. Web application uses MongoDB for a flexible and scalable data management. Express js to build back-end components, React js and Tailwind css to build the front-end components and Node js for back-end and front-end components to communicate.
 
   #### <a href="https://github.com/ParthJohri/Lumos-Bot">Livity ICT Website</a>
-  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> 
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> 
+  <span>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> 
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></span>  
 The main objective was to enhance my React skill. This is my side project, just for practices purposes. I want to learn react props and useState
