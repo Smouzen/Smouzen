@@ -22,11 +22,11 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
  <details>
   <summary><h4> <img align="center" src="https://github.com/Smouzen/Tlotlang/blob/icons/academics.gif"  width="29"/> Academics</h2></summary>
 
-- **Sol Plaatje Universisty** Diploma in ICT | Jan 2018 - May 2020
+- **Diploma in ICT**  (Sol Plaatje University) | Jan 2018 - Dec 2020
   - Programming Languages: Java, Python, Android Studio
   - Databases: MySQL
   - Key focus area: Agile Methodologies | Object Oriented Programming |Information Systems | Web-Development.
-- **Sol Plaatje Universisty** Advanced Diploma in ICT | Jan 2018 - May 2020
+- **Advanced Diploma in ICT** (Sol Plaatje University) | Mar 2021 - Dec 2021
   - Programming Languages: Java, Python
   - Databases: MongoDB, Redis 
   - Project Management 
