@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/Smouzen/Tlotlang/blob/icons/Hi.gif" width="28px"/>,I'm Tlotlang Smous</h2>
+<h1 align="center">Hi <img src="https://github.com/Smouzen/Smouzen/blob/icons/Hi.gif" width="28px"/>,I'm Tlotlang Smous</h2>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ParthJohri&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
 a Jnr. Software Developer
@@ -17,10 +17,10 @@ a Jnr. Software Developer
 I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. My focus is in<strong>MERN</strong> with a Passion for Continuous Learning.My journey into the world of coding began with curiosity, and since then, I've been on an exciting quest to turn ideas into functional and user-friendly software. My analytical mindset and determination drive me to find elegant solutions to complex problems, turning roadblocks into stepping stones💡. I'm committed to continuous learning. I believe that embracing knowledge empowers me to innovate and evolve
 
 <details>
- <summary><h2> <img align="center" src="https://github.com/Smouzen/Tlotlang/blob/icons/about.png" width="37" /> Resume</h2></summary>
+ <summary><h2> <img align="center" src="https://github.com/Smouzen/Smouzen/blob/icons/about.png" width="37" /> Resume</h2></summary>
  
  <details>
-  <summary><h4> <img align="center" src="https://github.com/Smouzen/Tlotlang/blob/icons/academics.gif"  width="29"/> Academics</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/Smouzen/Smouzen/blob/icons/academics.gif"  width="29"/> Academics</h2></summary>
 
 - **Diploma in ICT**  (Sol Plaatje University) | Jan 2018 - Dec 2020
   - Programming Languages: Java, Python, Android Studio
@@ -34,7 +34,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 </details>
 </details>
  <details>
-  <summary><h4> <img align="center" src="https://github.com/Smouzen/Tlotlang/blob/icons/experience.gif"  width="29"/> Experience</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/Smouzen/Smouzen/blob/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
 - **Free Lancer** Self- Employeed (Remote) | Oct 2022 -  Present
   • Developed and deployed web applications based on client specifications.
@@ -45,7 +45,7 @@ efficiency.
   
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/Smouzen/Tlotlang/blob/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/Smouzen/Smouzen/blob/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
 
   #### Languages
 
@@ -80,7 +80,7 @@ efficiency.
 </details>
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/Smouzen/Tlotlang/blob/icons/Github.gif"  width="29"/> Projects</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/Smouzen/Smouzen/blob/icons/Github.gif"  width="29"/> Projects</h2></summary>
 
   #### <a href="https://smousestate.onrender.com/">Estate Agent</a>
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> 
@@ -104,10 +104,10 @@ The main objective was to enhance my React skill. This is my side project, just 
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
   <a href="https://github.com/Smouzen">
-    <img align="center" src="https://github.com/Smouzen/Tlotlang/blob/icons/Github.gif" width="70"/>
+    <img align="center" src="https://github.com/Smouzen/Smouzen/blob/icons/Github.gif" width="70"/>
   </a>
   <a href="https://www.linkedin.com/in/tlotlang-smous-424564201/">
-    <img align="center" src="https://github.com/Smouzen/Tlotlang/blob/icons/Linkedin.gif" width="70"/>
+    <img align="center" src="https://github.com/Smouzen/Smouzen/blob/icons/Linkedin.gif" width="70"/>
   </a>
  
 </div>
@@ -120,7 +120,7 @@ The main objective was to enhance my React skill. This is my side project, just 
 <p> 
  <i>You can reach out to me via</i> 
 &nbsp;<a href="mailto:contact.tlsmous09@yahoo.com">
-     <img align="center" src="https://github.com/Smouzen/Tlotlang/blob/icons/Gmail.gif"  width="100"/>
+     <img align="center" src="https://github.com/Smouzen/Smouzen/blob/icons/Gmail.gif"  width="100"/>
  </a>
 </p>
 
