@@ -9,7 +9,7 @@ a jnr. Software Developer
 </h2>
 
 <div align="center">
- <img alt="GIF" src="https://media.giphy.com/media/pqMSyHmekA1Qe7Utp7/giphy.gif?cid=ecf05e47dlp4ywb1p4zn2tnobqmg9qouj31zphddwy7krc3e&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
+ <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVqZnhibjdtazN1OHlvaXRlcmc1bm0xNG1ubzYxaXo3cnA4d3VyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" />
 </div>
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
