@@ -36,10 +36,21 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
  <details>
   <summary><h4> <img align="center" src="https://github.com/Smouzen/Smouzen/blob/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
-- **Free Lancer** Self- Employeed (Remote) | Oct 2022 -  Present
+- **Junior Software Developer Trainee** SITA SOC (Ltd) | Jun 2024 -  Present
   • Developed and deployed web applications based on client specifications.
   • Utilized AWS EC2 for deployment and Docker for containerization the web application.
   • Utilized GitHub actions for CI/CD workflows, enhancing development 
+efficiency.
+- **Junior Software Developer** Livity ICT (PTY)LTD | Jun 2023 -  Apr 2024
+  • Developed web applications using MERN stack for Livity ICT (PTY) LTD in a remote setting.
+  • Utilized AWS EC2 for deployment and Docker for containerization the web application.
+  • Utilized GitHub actions for CI/CD workflows, enhancing development 
+efficiency.
+- **Junior Software Developer** Self- Employeed (Remote) | Oct 2022 -  Dec 2024
+  • Developed and deployed web applications based on client specifications.
+  •  Conducted thorough testing and debugging of websites before deployment, ensuring smooth functionality.
+  • Created comprehensive documentation for web applications and provided ongoing maintenance and support for clients.
+    • Collaborated with team members to implement web application updates and enhancements.
 efficiency.
 </details>
   
